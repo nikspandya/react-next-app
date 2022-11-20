@@ -22,7 +22,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 You can start editing the page by the components or the pages in the `components/` dir or the `pages/index.tsx`. The page auto-updates as you edit the file.
 
-_Additionally, we have configured an ESLint to making code more consistent and avoid bugs._
+_Additionally, I have configured an ESLint to making code more consistent and avoid bugs._
 
 Therefore, when working on the project and, especially before pushing new code to the repo, please run the following command in the project's dir to check for mistakes:
 
@@ -30,7 +30,7 @@ Therefore, when working on the project and, especially before pushing new code t
 yarn lint:fix
 ```
 
-### followimg four tabs are vissible after starting the app
+### following four tabs are vissible after starting the app
 
 1. [Home](http://localhost:3000): For welcome message
 
@@ -39,7 +39,7 @@ yarn lint:fix
     * User can add/remove/mark developer to the developer list
     * User can see existing/newly added devloper lists
 
-3. [SSG Articles](http://localhost:3000/article): for viewing SSG Articles coming from web
+3. [SSG Articles](http://localhost:3000/ssg): for viewing SSG Articles coming from web
     * User can also click on the post and sees what inside it
 
-4. [SSR Articles](http://localhost:3000/blog): for viewing SSR Articles coming from app api
+4. [SSR Articles](http://localhost:3000/ssr): for viewing SSR Articles coming from app api
