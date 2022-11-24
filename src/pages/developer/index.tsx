@@ -10,7 +10,7 @@ const App = (): JSX.Element => {
     <div className='App'>
       <Layout>
         <Content>
-          <h1>Welcome to the Developer's World</h1>
+          <h1>Welcome to the Developer World</h1>
           <TeamLeadComponent />
           <DeveloperComponent />
           <DeveloperListComponent />
